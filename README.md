@@ -23,4 +23,4 @@ MIT. See `LICENSE`.
 
 ## Contact
 
-Iaroslav Iakubivskyi -- iakubivskyi@mit.edu
+Iaroslav Iakubivskyi -- iaroslav@mit.edu
