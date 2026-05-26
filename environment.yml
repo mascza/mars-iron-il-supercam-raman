@@ -1,0 +1,11 @@
+name: mars-raman-pipeline
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - numpy
+  - matplotlib
+  - scipy
+  - pyarrow
+  - pandas
+  - astropy
